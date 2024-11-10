@@ -1,4 +1,4 @@
-#Smooth Simulator
+# Smooth Simulator
 
 Smooth Simulator acts as a HIL Simulator for design verification of surfskate gadget.
 
@@ -13,4 +13,8 @@ Once ready, the OLED on J9 displays settings and status information, options can
 - UART Master
 - GPS HIL SoftCore 
 
+## Linux
+- Device-Tree update: OLED
+- Device-Tree update: User Button
+- Auto-Load Bitstream into PL
 
